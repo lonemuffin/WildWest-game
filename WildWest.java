@@ -11,7 +11,7 @@ public class WildWest {
     public static void hat(Scanner in) {
 
         //Hat picker		
-        System.out.println("Your first choice of the game - which hat will you pick??");
+        System.out.println("Your first choice of the game - which hat will you pick?");
 System.out.println("---Pick a Hat---");
 System.out.println("1. Ten Gallon Hat");
 System.out.println("2. Telescopic Gambler Hat");
