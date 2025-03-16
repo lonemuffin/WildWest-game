@@ -1,5 +1,5 @@
 //Start of the code
-//Made by Kyle Klees and Jack Cooper
+//Made by [redacted] and [redacted]
 import java.util.Random;
 import java.util.Scanner;
 
